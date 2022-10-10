@@ -1,0 +1,10 @@
+Irritado(a)
+Narcisista
+Amigavel
+Antisocial
+Sociavel
+Otimista
+Pessimista
+Extrovertido(a)
+Introvertido(a)
+Calculista

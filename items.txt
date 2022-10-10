@@ -1,0 +1,5 @@
+Faca
+Pistola
+Kit medico
+Rifle
+Lanterna

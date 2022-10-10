@@ -1,0 +1,8 @@
+Cacador(a)
+Policial
+Investigador(a) Paranormal
+Detetive
+Mecanico(a)
+Militar
+Professor(a)
+Lutador(a)

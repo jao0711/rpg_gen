@@ -1,0 +1,3 @@
+Atirador
+Mercenario
+Lutador

@@ -1,0 +1,8 @@
+Atirador
+Lutador
+Mercenario
+Biologo
+T.I.
+Mago Natural
+Mago Psiquico
+Necromante

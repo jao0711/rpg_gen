@@ -1,0 +1,31 @@
+if tri_esc == 'Mercenario':
+                        
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+2 forca / +1 luta / +1 agilidade / +1 dano corpo a corpo)'.format(esco_subc, tri_esc))
+
+                        if tri_esc == 'Atirador':
+
+                            print ('Classe: Combatente / SubClasse: {} (+3 força / +2 luta / +1 agilidade / +2 dano corpo a corpo) / Trilha de SubClasse {} (+1 descricao / +1 perccepcao / +1 tiro)'.format(esco_subc, tri_esc))
+                        
+                        if tri_esc == 'Biologo':
+                            
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+2 ciencia / +1 adestramento)'.format(esco_subc, tri_esc))
+                            
+                        if tri_esc == 'Perito':
+                            
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+1 pericia / +1 investigacao / +1 percepcao \n +1 labia / +1 psicologia)'.format(esco_subc, tri_esc))
+
+                        if tri_esc == 'T.I.':
+                            
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+2 tecnologia / +1 mecanica / +1 investigacao)'.format(esco_subc, tri_esc))
+                            
+                        if tri_esc == 'Mago Natural':
+                            
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+2 estudos ocultos / +1 ciencias / +1 resistencia sanidade - paranormal)'.format(esco_subc, tri_esc))
+                            
+                        if tri_esc == 'Mago Psiquico':
+                            
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+2 estudos oculto / +1 psicologia / +1 labia \n +1 resistencia sanidade - paranormal)'.format(esco_subc, tri_esc))
+                        
+                        if tri_esc == 'Necromante':
+                            
+                            print ('Classe: Combatente / Subclasse: {} (+1 discrição / +2 perícia / +2 tiro \n Trilha de Subclasse: {} (+2 estudos ocultos / +1 ciencias - morte / +1 resistencia sanidade - paranormal)'.format(esco_subc, tri_esc))
